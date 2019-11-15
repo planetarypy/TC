@@ -1,10 +1,20 @@
-# The Planetary Python Software Technical Committee
+# PlanetaryPy Project
 
----
+PlanetaryPy is a community effort to develop a core package
+for planetary science in Python and foster interoperability between
+Python planetary science packages.
 
-The Planetary Python Technical Committee (PPTC) is the technical governing body of the Planetary Python group.
-It is described in the [PPTC Charter](PPTC-Charter.md).
 
-The governing documents for the PPTC are located in the root folder of this repository.
+## PlanetaryPy Technical Committee
 
-[...]
+The PlanetaryPy Technical Committee (PPTC) is the governing body for
+the project, as described in its [Charter](Charter.md).
+
+
+## PlanetaryPy Core Modules
+
+* None yet.
+
+## PlanetaryPy Affiliated Modules
+
+* None yet.
