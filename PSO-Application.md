@@ -34,9 +34,9 @@ point, and the naming is right.
 The goal is to take that existing codebase, plus a solid governance
 model taken from the Planetary Software Organization, and eventually
 work to build something that is as robust as the Astropy Project.
-We recognize that there is a large gulf between where we are now,
-and something as comprehensive as Astropy, and the intent is to try
-and slowly and methodically build.
+We are just beginning this process, and the intent is to slowly and
+methodically build towards a healthy Python ecosystem for planetary
+sciences.
 
 Participation in PlanetaryPy activities is completely voluntary.
 None of the PlanetaryPy TC members are currently funded to work on
