@@ -87,7 +87,10 @@ discretion over the Planetary Project in the following areas:
 
 We plan to adopt the Governance model from the Planetary Software Organization.
 We plan to use the same Code of Conduct (based on the Contributor Covenant, version 1.4)
-that the PSO uses, and a Contribution model that is also similar.
+that the PSO uses, and a Contribution model that is also similar (with the exception
+that contributors are not automatically made Collaborators upon a 'significant' code
+contribution, but the conversion of a contributor to a Collaborator is discussed by
+the TC).
 
 
 ## Tools
