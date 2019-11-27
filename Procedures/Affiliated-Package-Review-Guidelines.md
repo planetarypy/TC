@@ -102,18 +102,18 @@ ecosystem - does it make use of existing functionality, or does it duplicate it?
 <table>
 <tr>
 <td width=150><img src="https://img.shields.io/badge/Red-red.svg" alt="Red"></td>
-<td>Does not use PlanetaryPy or other affiliated packages anywhere
+<td>Does not use PlanetaryPy core or affiliated packages anywhere
 where it should be possible, and/or uses other libraries instead.</td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange"></td>
-<td>Makes an effort to use PlanetaryPy or other affiliated packages in
+<td>Makes an effort to use PlanetaryPy core or affiliated packages in
 places, but still has other places where this could be done but
-isn’t</td>
+isn’t.</td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green"></td>
-<td>Uses PlanetaryPy or other affiliated packages wherever possible.</td>
+<td>Uses PlanetaryPy core or affiliated packages wherever possible.</td>
 </tr>
 </table>
 
