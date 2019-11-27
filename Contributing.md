@@ -93,9 +93,9 @@ not open for 24 h) to be merged.
 
 # Becoming a Committer
 
-All contributors who get a non-trivial contribution merged should
-be on-boarded in a timely manner, added as a committer, and be given
-write access to the repository.
+All contributors who get a non-trivial contribution merged can become
+Collaborators, with commit-access to the repository.  More information
+on this process can be found in the [Charter](Charter.md#collaborators).
 
 Committers are expected to follow this policy and continue to send
 pull requests, go through proper review, and have other committers
