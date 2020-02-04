@@ -10,25 +10,39 @@ proposing an affiliated package, like [Astropy does](http://www.astropy.org/affi
 *These instructions are for affiliated package authors*
 
 Once you believe your package is ready to be reviewed by the
-PlanetaryPy Project, open a pull request to the ??
-<!--[astropy.github.com](https://github.com/astropy/astropy.github.com)
-repository, modifying the ``affiliated/registry.json`` file to add
-details about your own package. If you are not comfortable with
-git, you can do this by using [an
-editor](https://github.com/astropy/astropy.github.com/edit/master/affiliated/registry.json).
-If you get a message saying **You need to fork this repository to
-propose changes** then click on the green button to confirm the
-forking:
+PlanetaryPy Project, open a pull request to the [TC
+repository](https://github.com/planetarypy/TC), modifying
+the ``README.md`` file to add details about your own package. If
+you are not comfortable with git, you can do this by using the 'Edit
+this File' button (that looks like a pencil which is to the the
+upper right of the document, next to the trash can icon) on the webpage
+for the [README.md](/README.md).  If you get
+a message saying **You need to fork this repository to propose
+changes** then click on the green button to confirm the forking:
 
 <p align="center">
   <img src="images/propose_fork.png" alt="fork" width="600">
 </p>
--->
 
 Copy the following template entry and fill out the
 details:
 
-    {
+```
+* Your Package Name
+  - Maintainer: Your name, your email address
+  - URL: URL to the home page or documentation
+  - Repo: URL to the repository
+  - PyPI name: PyPI name if it exists, empty otherwise.
+  - Description: A few sentences describing your package.
+  - `functionality`: To be filled out by reviewer
+  - `ecointegration`: To be filled out by reviewer
+  - `documentation`: To be filled out by reviewer
+  - `testing`: To be filled out by reviewer
+  - `devstatus`: To be filled out by reviewer
+  - `pythonver`: To be filled out by reviewer
+```
+
+<!--    {
       "name": "Your package name",
       "maintainer": "Your name <your email address>",
       "stable": true,
@@ -53,6 +67,9 @@ after:
 
     {
       "packages": [
+-->
+
+then add it to the bulleted list under PlanetaryPy Affiliated Modules.
 
 Once this is done, under **Propose file change** you can enter a short
 description for the commit then click on the green **Propose file change**
@@ -146,7 +163,7 @@ Documentation:
 
 I am reaching out to ask whether you would be willing to review this package.
 
-To provide some background, an affiliated package is an planetary-related
+To provide some background, an affiliated package is a planetary-related
 Python package that is not part of the planetarypy core package,
 but is part of the PlanetaryPy Project community. Such a package
 should demonstrate a commitment to PlanetaryPy’s goals of improving
@@ -272,7 +289,7 @@ this package is accepted as an affiliated package! :trophy:
 **Summary/Decision**: This package meets the review criteria for affiliated
 packages, so we are happy to confirm that we'll be listing your package as an
 affiliated package! Keep up the good work, and we encourage you to improve on
-the areas above that weren't “green” yet.
+the areas above that weren't "green" yet.
 
 *If there is any red:*
 
