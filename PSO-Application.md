@@ -22,12 +22,12 @@ sciences, and active maintenance of these repositories waned.
 
 In 2019, there was renewed interest by a new group of individuals
 (now the members of the PlanetaryPy TC) to create something for
-planetary sciences that was akin to the Astropy project for astronomy.
+planetary sciences that was akin to the Astropy Project for astronomy.
 
 At the Planetary Data Workshop in June, 2019, we found that there
 was a real interest in the Planetary Sciences technical community
 for an active planetary Python resource. Many people pointed to the
-astropy project as a possible analog or goal.  The code currently
+Astropy Project as a possible analog or goal.  The code currently
 within the GitHub PlanetaryPy organization is a great starting
 point, and the naming is right.
 
@@ -50,11 +50,11 @@ have always been a loose federation, no consistent or widespread
 user metrics are available.  However, we will use the planetarypy/pvl
 library as an example case.
 
-The `pvl` project, although it has had no commits in more than two
-years, is widely used by planetary science Python developers to
-deal with the pervasive parameter value language (PVL) standard in
-Planetary Data System (PDS) archives, and used in image labels
-written by the Integrated Software for Imagers and Spectrometers
+The `pvl` project, although prior to its recent commits had none
+in more than two years, is widely used by planetary science Python
+developers to deal with the pervasive parameter value language (PVL)
+standard in Planetary Data System (PDS) archives, and used in image
+labels written by the Integrated Software for Imagers and Spectrometers
 (ISIS) software.  It is officially listed as 'being used' by more
 than 20 other GitHub projects, and is likely used by many more.
 Its hosting on the Python Package Index (PyPI) indicates that it
@@ -85,11 +85,11 @@ discretion over the Planetary Project in the following areas:
 
 ## Governance, Contributions, Code of Conduct
 
-We plan to adopt the Governance model from the Planetary Software Organization.
-We plan to use the same Code of Conduct (based on the Contributor Covenant, version 1.4)
+We have adopted the Governance model from the Planetary Software Organization.
+We are using the same Code of Conduct (based on the Contributor Covenant, version 1.4)
 that the PSO uses, and a Contribution model that is also similar (with the exception
-that contributors are not automatically made Collaborators upon a 'significant' code
-contribution, but the conversion of a contributor to a Collaborator is discussed by
+that contributors are not *automatically* made Collaborators upon a 'significant' code
+contribution, but the conversion of a contributor to a Collaborator is always discussed by
 the TC).
 
 
@@ -106,8 +106,9 @@ There is no existing IP policy nor intellectual property concerns.
 ### Licenses
 
 The existing projects within the planetarypy GitHub organization
-are under a BSD-3-Clause license, and we plan to use the BSD-3-Clause
-license for the PlanetaryPy project.
+are under a BSD-3-Clause license, and we plan to allow the BSD-3-Clause
+license (or the Apache 2 or MIT licenses for Affiliated Packages,
+if their authors prefer) for the PlanetaryPy project.
 
 
 ## Members
@@ -115,3 +116,4 @@ license for the PlanetaryPy project.
 * Michael Aye (@michaelaye)
 * Ross Beyer (@rbeyer)
 * Andrew Annex (@AndrewAnnex)
+* Chase Million (@cmillion)
