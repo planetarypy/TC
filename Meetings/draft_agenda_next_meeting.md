@@ -7,4 +7,6 @@
 [to be filled with backlog items from previous agenda]
 
 # New agenda items
-* review/update planetarypy teams, currently only admins can commit and contributors are read only? New maintainers team has been created but we should talk just for a bit to see how it could be better organized. 
+* review/update planetarypy teams, currently only admins can commit and contributors are read only? New maintainers team has been created but we should talk just for a bit to see how it could be better organized.
+* Planetary Software Organization Application: can we submit?
+* `planetarypy/package-template` : Is it usable, or does more 'heavy construction' need to be done?  It can always be improved, but can we start using it?
