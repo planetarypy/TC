@@ -106,7 +106,7 @@ One of the PlanetaryPy Technical Committee (TC) members will be in
 charge of the review process (not necessarily the same person for
 each package). This TC member (hereafter the *coordinator*) will
 find someone to carry out the main review of the package (hereafter
-the *reviewer*). In this sense the role  of the coordinator is
+the *reviewer*). In this sense the role of the coordinator is
 similar to that of a journal editor.  However this is only partially
 true, because the coordinator (speaking for the TC as a whole) may
 add their views to the review, unlike a journal editor who is often
@@ -138,7 +138,7 @@ author has a month to respond to any of the points in the review,
 and the coordinator may decide to change the decision.
 
 If the package is accepted, the coordinator edits the pull request
-to add the results of the review to the JSON file.  <!--Once the
+to add the results of the review to the README.md file.  <!--Once the
 continuous integration passes, the pull request is merged.--> The
 pull request is then merged.
 
@@ -153,7 +153,7 @@ Subject: Reviewing a PlanetaryPy-affiliated package submission
 
 Dear/Hi {potential reviewer},
 
-The PlanetaryPY project has received a request to consider the following as an
+The PlanetaryPy project has received a request to consider the following as an
 affiliated package:
 
 Name:
@@ -171,9 +171,9 @@ reuse, interoperability, and interface standards for Python planetary
 packages.
 
 Reviewing a package involves reading over the documentation, having
-a look at the code to assess for example readability (but not read
+a look at the code to assess it (e.g. for readability but not read
 it line by line), checking how well the package is tested, as well
-as assessing its integration with the PlanetaryPy and wider planetary
+as assessing its integration with the PlanetaryPy Community and wider planetary
 software ecosystem. Most packages can be reviewed within an hour
 and reviews are anonymous by default. If you accept this review,
 we will send you a detailed list of criteria to check for the package
@@ -278,6 +278,13 @@ included some comments when the score is not green.
 </table>
 
 *Include any other comments here*
+
+*If accepted and there are no governance documents or only partial governance documents:*
+Please remember that if your package doesn't explicitly have a set
+of governance documents, that's fine!  The PlanetaryPy Project's
+governance models (consensus seeking, code of conduct, etc.)
+automatically apply to your project.  If you want something different,
+be sure to include it in your pacakge.
 
 *If accepted with all green:*
 
