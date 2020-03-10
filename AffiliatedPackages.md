@@ -1,7 +1,7 @@
 # PlanetaryPy Affiliated Packages
 
 PlanetaryPy affiliated packages are an important aspect of the 
-PlanetaryPy community.  
+PlanetaryPy community.
 
 An affiliated package is a planetary science related Python package that
 is not part of the `planetarypy` core package, and is not managed by the
