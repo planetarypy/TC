@@ -10,7 +10,7 @@ packages demonstrate a commitment to PlanetaryPy’s goals of improving
 reuse, interoperability, and interface standards for Python planetary
 science packages. In many (but not all) cases, affiliated
 packages also follow similar devlopment processes and package
-templates as for the core package.
+templates as the core package.
 
 PlanetaryPy affiliated packages are autonomous projects created and 
 managed by their own Technical Committees (TC), not the PlanetaryPy TC.
@@ -63,10 +63,10 @@ should:
 
 * Be compatible with Python 3.6 and above.
 
-* Be open to contributions from others. While this most straightforwardly means it 
+* Be open to contributions from others. This generally means the package
   follows a Github-based open development model (like the PlanetaryPy core package),
-  alternative approaches are perfectly valid as long as they are consistent with
-  basic principles of open source. (E.g., an OSI-approved license)
+  but alternative approaches are perfectly valid as long as they are consistent with
+  basic principles of open source (e.g., an OSI-approved license, etc.).
 
 In addition, you should make an effort to connect with the PlanetaryPy
 developer community, including developers from the core planetarypy

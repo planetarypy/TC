@@ -284,7 +284,7 @@ Please remember that if your package doesn't explicitly have a set
 of governance documents, that's fine!  The PlanetaryPy Project's
 governance models (consensus seeking, code of conduct, etc.)
 automatically apply to your project.  If you want something different,
-be sure to include it in your pacakge.
+be sure to include it in your package.
 
 *If accepted with all green:*
 
