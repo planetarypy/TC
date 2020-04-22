@@ -9,7 +9,7 @@ project but is a part of the PlanetaryPy Project community. These
 packages demonstrate a commitment to PlanetaryPy’s goals of improving
 reuse, interoperability, and interface standards for Python planetary
 science packages. In many (but not all) cases, affiliated
-packages also follow similar devlopment processes and package
+packages also follow similar development processes and package
 templates as the core package.
 
 PlanetaryPy affiliated packages are autonomous projects created and 
@@ -64,7 +64,7 @@ should:
 * Be compatible with Python 3.6 and above.
 
 * Be open to contributions from others. This generally means the package
-  follows a Github-based open development model (like the PlanetaryPy core package),
+  follows a GitHub-based open development model (like the PlanetaryPy core package),
   but alternative approaches are perfectly valid as long as they are consistent with
   basic principles of open source (e.g., an OSI-approved license, etc.).
 
