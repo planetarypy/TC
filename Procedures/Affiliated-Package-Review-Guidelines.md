@@ -126,7 +126,8 @@ it exists) and see how the package fares:
 <tr>
 <td width=150><img src="https://img.shields.io/badge/Red-red.svg" alt="Red"></td>
 <td>No documentation or some documentation, but very bare bones/minimal
-and incomplete or incorrect in a number of places.</td>
+and incomplete or incorrect in a number of places.  Governance documents that
+significantly diverge from those of the PlanetaryPy Project.</td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange"></td>
@@ -144,6 +145,11 @@ more tutorials should be included.</td>
 
 </tr>
 </table>
+
+This is also a good point to examine what 'governance documents', if any, 
+exist for the submitted package.  If they do exist, they should be compared 
+with the PlaneatryPy Project governance documents, and any major divergences
+should be noted.
 
 ### Testing (`testing`)
 
