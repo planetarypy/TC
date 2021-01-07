@@ -23,9 +23,9 @@ the project, as described in its [Charter](Charter.md).
   - Repo: https://github.com/planetarypy/pvl
   - PyPI name: pvl
   - Description: Python implementation of a PVL (Parameter Value Language) library.
-  - `functionality`: To be filled out by reviewer
-  - `ecointegration`: To be filled out by reviewer
-  - `documentation`: To be filled out by reviewer
-  - `testing`: To be filled out by reviewer
-  - `devstatus`: To be filled out by reviewer
-  - `pythonver`: To be filled out by reviewer
+  - `functionality`: General package
+  - `ecointegration`: Good
+  - `documentation`: Good
+  - `testing`: Good
+  - `devstatus`: Good
+  - `pythonver`: 3.6
