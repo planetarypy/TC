@@ -84,7 +84,7 @@ that domain. <!-- Packages such as sncosmo fall into this category.--></td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/General%20package-brightgreen.svg"
-         alt="Green"></td>
+         alt="General Package"></td>
 <td>Package that is useful for planetary researchers across more
 than just a single field or instrument. <!--Packages such as astroquery
 or astroplan fall into this category.--></td>
