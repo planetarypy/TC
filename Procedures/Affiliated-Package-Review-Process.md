@@ -231,46 +231,46 @@ included some comments when the score is not green.
 
 <tr><td><b>Integration with PlanetaryPy ecosystem</b></td><td>
 <a href="https://github.com/planetarypy/TC/blob/master/Procedures/Affiliated-Package-Review-Guidelines.md#Integration-with-the-PlanetaryPy-ecosystem-`ecointegration`">
-<img src="https://img.shields.io/badge/Red-red.svg" alt="Red">
-<img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange">
-<img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green">
+<img src="https://img.shields.io/badge/None-red.svg" alt="None">
+<img src="https://img.shields.io/badge/Partial-orange.svg" alt="Partial">
+<img src="https://img.shields.io/badge/Good-brightgreen.svg" alt="Good">
 </a></td></tr>
 
 <tr><td colspan=2><i>No further comments</i></td></tr>
 
 <tr><td><b>Documentation</b></td><td>
 <a href="https://github.com/planetarypy/TC/blob/master/Procedures/Affiliated-Package-Review-Guidelines.md#Documentation-documentation">
-<img src="https://img.shields.io/badge/Red-red.svg" alt="Red">
-<img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange">
-<img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green">
+<img src="https://img.shields.io/badge/Insufficient-red.svg" alt="Insufficient">
+<img src="https://img.shields.io/badge/Partial-orange.svg" alt="Partial">
+<img src="https://img.shields.io/badge/Good-brightgreen.svg" alt="Good">
 </a></td></tr>
 
 <tr><td colspan=2><i>No further comments</i></td></tr>
 
 <tr><td><b>Testing</b></td><td>
 <a href="https://github.com/planetarypy/TC/blob/master/Procedures/Affiliated-Package-Review-Guidelines.md#Testing-testing">
-<img src="https://img.shields.io/badge/Red-red.svg" alt="Red">
-<img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange">
-<img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green">
+<img src="https://img.shields.io/badge/Insufficient-red.svg" alt="Insufficient">
+<img src="https://img.shields.io/badge/Partial-orange.svg" alt="Partial">
+<img src="https://img.shields.io/badge/Good-brightgreen.svg" alt="Good">
 </a></td></tr>
 
 <tr><td colspan=2><i>No further comments</i></td></tr>
 
 <tr><td><b>Development status</b></td><td>
 <a href="https://github.com/planetarypy/TC/blob/master/Procedures/Affiliated-Package-Review-Guidelines.md#Development-status-devstatus">
-<img src="https://img.shields.io/badge/Red-red.svg" alt="Red">
+<img src="https://img.shields.io/badge/Nonfunctional-red.svg" alt="Nonfunctional">
 <img src="https://img.shields.io/badge/Heavy%20development-orange.svg" alt="Heavy Development">
 <img src="https://img.shields.io/badge/Functional%20but%20unmaintained-orange.svg" alt="Functional but unmaintained">
 <img src="https://img.shields.io/badge/Functional%20but%20low%20activity-orange.svg" alt="Functional but low activity">
-<img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green">
+<img src="https://img.shields.io/badge/Good-brightgreen.svg" alt="Good">
 </a></td></tr>
 
 <tr><td colspan=2><i>No further comments</i></td></tr>
 
 <tr><td><b>Python version compatibility</b></td><td>
 <a href="https://github.com/planetarypy/TC/blob/master/Procedures/Affiliated-Package-Review-Guidelines.md##Python-vertion-compatibility-pythonver">
-<img src="https://img.shields.io/badge/Red-red.svg" alt="Red">
-<img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green">
+<img src="https://img.shields.io/badge/Incompatible-red.svg" alt="Incompatible">
+<img src="https://img.shields.io/badge/3.6-brightgreen.svg" alt="3.6">
 </a></td></tr>
 
 <tr><td colspan=2><i>No further comments</i></td></tr>
