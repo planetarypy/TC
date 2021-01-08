@@ -270,7 +270,7 @@ included some comments when the score is not green.
 <tr><td><b>Python version compatibility</b></td><td>
 <a href="https://github.com/planetarypy/TC/blob/master/Procedures/Affiliated-Package-Review-Guidelines.md##Python-vertion-compatibility-pythonver">
 <img src="https://img.shields.io/badge/Incompatible-red.svg" alt="Incompatible">
-<img src="https://img.shields.io/badge/3.6-brightgreen.svg" alt="3.6">
+<img src="https://img.shields.io/badge/3%2E6-brightgreen.svg" alt="3.6">
 </a></td></tr>
 
 <tr><td colspan=2><i>No further comments</i></td></tr>
