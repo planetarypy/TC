@@ -17,4 +17,15 @@ the project, as described in its [Charter](Charter.md).
 
 ## PlanetaryPy Affiliated Modules
 
-* None yet.
+* pvl
+  - Maintainer: pvl Developers, rbeyer@seti.org
+  - URL: http://pvl.readthedocs.org/
+  - Repo: https://github.com/planetarypy/pvl
+  - PyPI name: pvl
+  - Description: Python implementation of a PVL (Parameter Value Language) library.
+  - `functionality`: General package
+  - `ecointegration`: Good
+  - `documentation`: Good
+  - `testing`: Good
+  - `devstatus`: Good
+  - `pythonver`: 3.6
