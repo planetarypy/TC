@@ -84,7 +84,7 @@ that domain. <!-- Packages such as sncosmo fall into this category.--></td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/General%20package-brightgreen.svg"
-         alt="Green"></td>
+         alt="General Package"></td>
 <td>Package that is useful for planetary researchers across more
 than just a single field or instrument. <!--Packages such as astroquery
 or astroplan fall into this category.--></td>
@@ -99,21 +99,30 @@ a way to make sure we can present these separately.
 Next up, we need to check how well the package fits in to the existing PlanetaryPy
 ecosystem - does it make use of existing functionality, or does it duplicate it?
 
+This factor is about what integration is possible given the current
+state of the PlanetaryPy project.  If some functionality exists in
+PlanetaryPy core or affiliated packages, that is the yardstick for
+comparison here.  During the early stages of the PlanetaryPy project,
+there is not much existing functionality, and most packages will
+be Good against this criteria (because there simply isn't much
+existant functionality to integate with).
+
 <table>
 <tr>
-<td width=150><img src="https://img.shields.io/badge/Red-red.svg" alt="Red"></td>
+<td width=150><img src="https://img.shields.io/badge/None-red.svg" alt="None"></td>
 <td>Does not use PlanetaryPy core or affiliated packages anywhere
 where it should be possible, and/or uses other libraries instead.</td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange"></td>
+<td><img src="https://img.shields.io/badge/Partial-orange.svg" alt="Partial"></td>
 <td>Makes an effort to use PlanetaryPy core or affiliated packages in
 places, but still has other places where this could be done but
 isn’t.</td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green"></td>
-<td>Uses PlanetaryPy core or affiliated packages wherever possible.</td>
+<td><img src="https://img.shields.io/badge/Good-brightgreen.svg" alt="Good"></td>
+<td>Uses PlanetaryPy core or affiliated packages wherever possible.  Usage is not required,
+but if there is reasonable existing functionality, it should be used.</td>
 </tr>
 </table>
 
@@ -124,23 +133,23 @@ it exists) and see how the package fares:
 
 <table>
 <tr>
-<td width=150><img src="https://img.shields.io/badge/Red-red.svg" alt="Red"></td>
+<td width=150><img src="https://img.shields.io/badge/Insufficient-red.svg" alt="Insufficient"></td>
 <td>No documentation or some documentation, but very bare bones/minimal
 and incomplete or incorrect in a number of places.  Governance documents that
 significantly diverge from those of the PlanetaryPy Project.</td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange"></td>
+<td><img src="https://img.shields.io/badge/Partial-orange.svg" alt="Partial"></td>
 <td>Reasonable documentation (which could be a very well written
 README), installation instructions and at least one usage example,
 but some parts missing.</td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green"></td>
+<td><img src="https://img.shields.io/badge/Good-brightgreen.svg" alt="Good"></td>
 <td>Extensive documentation, including at least: motivation/scope
-of package, installation instructions, usage examples, API
+of package, installation instructions, usage examples, and API
 documentation. In terms of infrastructure, the documentation should
-be automatically built on readthedocs.org. If appropriate, one or
+be automatically built on readthedocs.org or similar. If appropriate, one or
 more tutorials should be included.</td>
 
 </tr>
@@ -159,21 +168,21 @@ be acceptable as the primary way of satisfying “tests”.
 
 <table>
 <tr>
-<td width=150><img src="https://img.shields.io/badge/Red-red.svg" alt="Red"></td>
+<td width=150><img src="https://img.shields.io/badge/Insufficient-red.svg" alt="Insufficient"></td>
 <td>No tests or tests that are not trivial to run or don’t use a
 standard testing framework, or low test coverage (no exact threshold
 for coverage since this is not always easy to measure, but in this
 category most of the code is not covered).</td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange"></td>
+<td><img src="https://img.shields.io/badge/Partial-orange.svg" alt="Partial"></td>
 <td>A reasonable fraction of the code is covered by tests, but still
 some parts of the code that are missing tests. To be in this category,
 packages should use a standard framework (unittest, pytest, nose, etc.) and
 be runnable with a single command.</td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green"></td>
+<td><img src="https://img.shields.io/badge/Good-brightgreen.svg" alt="Good"></td>
 <td>Test coverage is very high (for example 90% or more), tests use
 a standard framework (unittest, pytest, nose, etc.) and are easy to run and
 continuous integration is used to ensure package stability over
@@ -189,7 +198,7 @@ compared to what one might realistically achieve.
 
 <table>
 <tr>
-<td width=200><img src="https://img.shields.io/badge/Red-red.svg" alt="Red"></td>
+<td width=200><img src="https://img.shields.io/badge/Nonfunctional-red.svg" alt="Nonfunctional"></td>
 <td>Package is not or no longer fully functional, even if stable releases exist.</td>
 </tr>
 <tr>
@@ -209,7 +218,7 @@ comments/commits (and package is not in excellent condition, because
 otherwise it’s fine to have a completely stable package with little
 activity if it can be considered 'finished')</td>
 </tr><tr>
-<td><img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green"></td>
+<td><img src="https://img.shields.io/badge/Good-brightgreen.svg" alt="Good"></td>
 <td>Package has stable releases, and package is actively developed
 (as needed). A metric for active development is whether most
 recently-opened issues have some kind of reply from maintainers.</td>
@@ -218,9 +227,12 @@ recently-opened issues have some kind of reply from maintainers.</td>
 
 ### Python version compatibility (`pythonver`)
 
+The PlanetaryPy Project requires that packages be compatible with Python version 3.6.  Being compatible
+with later versions of Python is great, too, but must be compatible with at least 3.6.
+
 <table>
 <tr>
-<td width=150><img src="https://img.shields.io/badge/Red-red.svg" alt="Red"></td>
+<td width=150><img src="https://img.shields.io/badge/Incompatible-red.svg" alt="Incompatible"></td>
 <td>Not compatible with Python 3.6.</td>
 </tr>
 <tr>
@@ -228,7 +240,7 @@ recently-opened issues have some kind of reply from maintainers.</td>
 <td>Not compatible with Python 3</td>
 </tr -->
 <tr>
-<td><img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green"></td>
+<td><img src="https://img.shields.io/badge/3%2E6-brightgreen.svg" alt="3.6"></td>
 <td>Compatible with Python 3.6.</td>
 </tr>
 </table>
