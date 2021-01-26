@@ -104,7 +104,7 @@ state of the PlanetaryPy project.  If some functionality exists in
 PlanetaryPy core or affiliated packages, that is the yardstick for
 comparison here.  During the early stages of the PlanetaryPy project,
 there is not much existing functionality, and most packages will
-be Good against this criteria (because there simply isn't must
+be Good against this criteria (because there simply isn't much
 existant functionality to integate with).
 
 <table>
