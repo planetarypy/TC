@@ -23,12 +23,12 @@ the project, as described in its [Charter](Charter.md).
   - Repo: https://github.com/AndrewAnnex/SpiceyPy
   - PyPI name: SpiceyPy
   - Description: SpiceyPy is a Python wrapper for the NAIF C SPICE Toolkit.
-  - `functionality`: To be filled out by reviewer
-  - `ecointegration`: To be filled out by reviewer
-  - `documentation`: To be filled out by reviewer
-  - `testing`: To be filled out by reviewer
-  - `devstatus`: To be filled out by reviewer
-  - `pythonver`: To be filled out by reviewer
+  - `functionality`: General Package
+  - `ecointegration`: Good
+  - `documentation`: Good
+  - `testing`: Good
+  - `devstatus`: Good
+  - `pythonver`: 3.6
 
 * pvl
   - Maintainer: pvl Developers, rbeyer@seti.org
