@@ -17,6 +17,19 @@ the project, as described in its [Charter](Charter.md).
 
 ## PlanetaryPy Affiliated Modules
 
+* SpiceyPy
+  - Maintainer: annex@jhu.edu
+  - URL: http://spiceypy.readthedocs.org/
+  - Repo: https://github.com/AndrewAnnex/SpiceyPy
+  - PyPI name: SpiceyPy
+  - Description: SpiceyPy is a Python wrapper for the NAIF C SPICE Toolkit.
+  - `functionality`: General Package
+  - `ecointegration`: Good
+  - `documentation`: Good
+  - `testing`: Good
+  - `devstatus`: Good
+  - `pythonver`: 3.6
+
 * pvl
   - Maintainer: pvl Developers, rbeyer@seti.org
   - URL: http://pvl.readthedocs.org/
