@@ -17,6 +17,19 @@ the project, as described in its [Charter](Charter.md).
 
 ## PlanetaryPy Affiliated Modules
 
+* kalasiris
+  - Maintainer: rbeyer@seti.org
+  - URL: https://kalasiris.readthedocs.io
+  - Repo: https://github.com/rbeyer/kalasiris
+  - PyPI name: kalasiris
+  - Description: The kalasiris library is a Python library to wrap functions and functionality for the Integrated Software for Imagers and Spectrometers (ISIS).
+  - `functionality`: To be filled out by reviewer
+  - `ecointegration`: To be filled out by reviewer
+  - `documentation`: To be filled out by reviewer
+  - `testing`: To be filled out by reviewer
+  - `devstatus`: To be filled out by reviewer
+  - `pythonver`: To be filled out by reviewer
+
 * SpiceyPy
   - Maintainer: annex@jhu.edu
   - URL: http://spiceypy.readthedocs.org/
