@@ -1,4 +1,4 @@
-# PlanetarPy Charter
+# PlanetaryPy Charter
 
 PlanetaryPy is governed by the members of the Technical Committee (TC).
 
