@@ -20,7 +20,7 @@ exist separately.  They benefit from being PlanetaryPy affiliated packages
 in the following ways: 
 
 1. The PlanetaryPy TC helps them adopt or formalize governance and
-	community standards to foster their existance as an open
+	community standards to foster their existence as an open
 	source community.
 2. They gain the ability to easily reach out to the Planetary
 	Software TC for consultation or mentorship on technical
