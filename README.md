@@ -23,12 +23,12 @@ the project, as described in its [Charter](Charter.md).
   - Repo: https://github.com/rbeyer/kalasiris
   - PyPI name: kalasiris
   - Description: The kalasiris library is a Python library to wrap functions and functionality for the Integrated Software for Imagers and Spectrometers (ISIS).
-  - `functionality`: To be filled out by reviewer
-  - `ecointegration`: To be filled out by reviewer
-  - `documentation`: To be filled out by reviewer
-  - `testing`: To be filled out by reviewer
-  - `devstatus`: To be filled out by reviewer
-  - `pythonver`: To be filled out by reviewer
+  - `functionality`: General package
+  - `ecointegration`: Good
+  - `documentation`: Good
+  - `testing`: Partial
+  - `devstatus`: Good
+  - `pythonver`: 3.6
 
 * SpiceyPy
   - Maintainer: annex@jhu.edu
@@ -36,7 +36,7 @@ the project, as described in its [Charter](Charter.md).
   - Repo: https://github.com/AndrewAnnex/SpiceyPy
   - PyPI name: SpiceyPy
   - Description: SpiceyPy is a Python wrapper for the NAIF C SPICE Toolkit.
-  - `functionality`: General Package
+  - `functionality`: General package
   - `ecointegration`: Good
   - `documentation`: Good
   - `testing`: Good
