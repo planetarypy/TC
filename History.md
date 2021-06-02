@@ -1,6 +1,10 @@
-=======
 History
 =======
+
+2021-01
+------------------
+* First and second official Affiliated Packages (*pvl* and *SpiceyPy*) added to
+  the listing.
 
 2019-12-03
 ------------------
