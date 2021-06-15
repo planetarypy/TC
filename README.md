@@ -1,4 +1,4 @@
-# [PlanetaryPy]((https://planetarypy.org)
+# [PlanetaryPy Project](https://planetarypy.org)
 
 PlanetaryPy is a community effort to develop a core package for
 planetary science in Python and foster interoperability between
