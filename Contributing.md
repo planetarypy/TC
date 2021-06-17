@@ -29,14 +29,14 @@ Log an issue for any question or problem you might have. When in
 doubt, log an issue, any additional policies about what to include
 will be provided in the responses. The only exception is a security
 disclosure which should be sent privately to the contact address
-listed in the [Code of Conduct](CoC).
+listed in the [Code of Conduct](Code-Of-Conduct.md).
 
 Committers may direct you to another repository, ask for additional
 clarifications, and add appropriate metadata before the issue is
 addressed.
 
 Please be courteous and respectful.  Every participant is expected
-to follow the [Code of Conduct](CoC)).
+to follow the [Code of Conduct](Code-Of-Conduct.md)).
 
 # Contributions
 
@@ -116,5 +116,3 @@ suggestions on how to move forward towards a consensus. It is not
 expected that a meeting of the TC will resolve all issues on its
 agenda during that meeting and may prefer to continue the discussion
 happening among the committers.
-
-[CoC]: Code-Of-Conduct.md

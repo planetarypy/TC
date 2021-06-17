@@ -61,7 +61,7 @@ should:
   functionality. We realize this is not always possible, but when it is, a test 
   suite is a crucial element of stable software and reproducible science.
 
-* Be compatible with Python 3.6 and above.
+* Be compatible with the Python version specified on the [guidelines page][guidelines].
 
 * Be open to contributions from others. This generally means the package
   follows a GitHub-based open development model (like the PlanetaryPy core package),
@@ -77,7 +77,7 @@ packages become unmaintained or do not meet the standards anymore,
 they may be removed from the list of affiliated packages.
 
 The PlanetaryPy Project provides a
-[`package-template`](http://github.com/planetarypy/pacakge-template) that
+[`package-template`](https://github.com/planetarypy/package-template) that
 can bootstrap your project and provides examples and best practices
 for how to lay out your package's repository.
 
@@ -107,5 +107,5 @@ Contributing document in the affiliated project's repository, or just file an
 Issue.
 
 
-[review-process]: Procedures/Affiliated-Package-Review-Process.md
-[guidelines]: Procedures/Affiliated-Package-Review-Guidelines.md
+[review-process]: https://planetarypy.org/packages/review-process/
+[guidelines]: https://planetarypy.org/packages/review-guidelines/
