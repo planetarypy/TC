@@ -4,6 +4,8 @@ https://cuboulder.zoom.us/j/2789149686
 
 Meeting ID: 278 914 9686
 
+PlanetaryPy TC Meetings are scheduled in the [Planetary Software Google Calendar](https://calendar.google.com/calendar?cid=aXFtYmE4MmQ2MGUwdDRycGIzZ2U0MjhwbTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) that you can check or subscribe to.
+
 
 ### Only 1 Approval is needed for PRs in this directory!
 
