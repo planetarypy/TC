@@ -1,10 +1,13 @@
 # PlanetaryPy Incubating Packages
 
-Packages in PlanetaryPy Incubation are packages that wish to eventually join PlanetaryPy as an affiliated package. Entering incubation is not a requirement or prerequisite for any affiliated packages or packages who wish to become affiliated packages. Incubation status is intended to foster the development of packages that may not yet fully meet all of the standards of an affiliated package.
+Packages in PlanetaryPy Incubation are packages that might eventually join PlanetaryPy as an Affiliated Package. Entering incubation is not a requirement or prerequisite for being an Affiliated Package. Incubation status is intended to foster the development of packages that may not yet fully meet all of the standards of an Affiliated Package.
 
-There are no time-limits to project incubation status or requirement that packages ever submit for review as an affiliated package to PlanetaryPy. However, if an incubating project does succesfully become an affiliated package in PlanetaryPy it will no longer be considered under incubation. 
+There are no time-limits to project incubation status or requirement that packages ever submit for review as an Affiliated Package to PlanetaryPy. However, if an Incubating Package does succesfully become an Affiliated Package in PlanetaryPy it will no longer be considered under incubation.
 
-Incubating PlanetaryPy Packages gain the ability to easily consult with the PlanetaryPy Technical Committee (TC) to advise the project on open source best practices to gradually implement the standards of PlanetaryPy and to join the open source community. Incubating project developers are welcome to join PlanetaryPy meetings prior-to and after submission for consideration for incubation. 
+Once listed as an Incubating Package, the developers are expected to attend at least one PlaneatryPy Technical Committee (TC) meeting to discuss their accepted-for-Incubation package.  The intent is so that the TC can better understand the package, and provide advice and help to the developers on a wide spectrum of topics like open source best practices, standards, or any other topic that the developers would like help or guidance navigating.  Of course, Incubating Package developers are welcome (like anyone else) to join PlanetaryPy TC meetings, even before they might submit a package to be considered.
+
+Packages in Incubation receive a number of benefits.  Just being in this public listing might help users find their functionality more easily, and provides the opportunity for more users and even contributors to get involved with the Incubating Package.  Additionally, the TC will be able to direct people to these packages when individuals ask "how they can help" PlanetaryPy.  In partnership with the developers, the TC may make the package a part of hack-a-thons or other directed community contribution events or campaigns.  Being an Incubating Package is an opportiny, and the TC wants to help those packages succeed.
+
 
 ## How submit a Package for Incubation
 
